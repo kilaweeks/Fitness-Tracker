@@ -3,15 +3,18 @@
 ## Description
 This is an application that allows the user to build and track daily workouts that can include multiple exercises and the name, type, weight, sets, reps, and durations of each exercise. The front end code was already provided. 
 
-- [Link to Heroku](https://evening-cliffs-42215.herokuapp.com/)
+- [Deployed Website](https://evening-cliffs-42215.herokuapp.com/)
 
 ## Images
+![screenshot](public/images/screenshot-1.png)
+![screenshot](public/images/screenshot-2.png)
+![screenshot](public/images/screenshot-3.png)
+![screenshot](public/images/screenshot-4.png)
 
 ## Technologies
 - JavaScript
 - Node.js
 - Express.js
-- dotenv
 - Heroku 
 - MongoDB
 - Mongoose
